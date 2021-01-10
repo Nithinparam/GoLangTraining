@@ -78,7 +78,27 @@ continue    for             import      return          var
 *   Three boolean operators are used with boolean values:
 
 
- &&   | and 
+ &&   | AND
 ------|------
-**\| \|** | **or** 
- **!**    | **not**
+**\| \|** | **OR** 
+ **!**    | **NOT**
+
+
+ Expression|Value
+ ---------|------
+ true && true|true
+ true && false|false
+ false && true|false
+ false && false|false
+
+ Expression|Value
+ ---------|------
+true \| \|true|true
+ true \| \|false|true
+ false\| \| true|true
+ false\| \| false|false
+
+ Expression |Value
+ -----------|-----
+ !true      |false
+ !false     |true

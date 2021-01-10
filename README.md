@@ -68,3 +68,10 @@ continue    for             import      return          var
 ```
 
 ### Strings
+*   String literals can be created using double quotes--> "Hello World"
+*   or we can use back quotes-->`Hello world`
+*   the difference between these is that double quote strings can not contain newlines and they allow speical escape sequences. 
+
+### Booleans
+
+*   It has only two values i.e, `true` and `false`

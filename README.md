@@ -75,3 +75,10 @@ continue    for             import      return          var
 ### Booleans
 
 *   It has only two values i.e, `true` and `false`
+*   Three boolean operators are used with boolean values:
+
+
+ **`&&`**  | **`and`** 
+ ----------|----------
+ **`||`**| **`or`** 
+ **`!`**   | **`not`**

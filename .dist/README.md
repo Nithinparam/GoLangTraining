@@ -1,3 +1,0 @@
-#   GoLang Training
-
-##  jus tried
